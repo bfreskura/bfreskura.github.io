@@ -1,9 +1,9 @@
 - name: Discord Summaries
-  link: /summaries/discord
+  link: /category/discord
   new_window: false
   highlight: false
 - name: Telegram Summaries
-  link: /summaries/telegram
+  link: /category/telegram
   new_window: false
   highlight: false
 - name: About
